@@ -1,0 +1,6 @@
+.plans-container-slider {
+    justify-content: center;
+    display: flex;
+    flex: wrap;
+    margin: 0 auto;
+}
